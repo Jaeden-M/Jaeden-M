@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- Hi, Jaeden
+- I'm currently studying Electrical Engineering
+- I chose my major because I've been interested in electronics after attending a summer "Engineering Academy" at Honolulu Community College
+- A fun fact about me is: I love cats and going to raves
+- What do I want to learn from EE 205?  Learning more programming languages in general
+- A book or movie I'd recommend is:  The Giver; I'd recommend reading the book before watching the movie, as the movie skipped some aspects the book had. 
 <!--
 **Jaeden-M/Jaeden-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
